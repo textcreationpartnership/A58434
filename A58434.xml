@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the battle of Landen</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58434</idno><idno type="EEBO-CITATION">13470571</idno>
+  <idno type="VID">99688</idno>
+  <idno type="EEBO-PROQUEST">2248496853</idno>
+  
+            <idno type="STC">Wing R815A</idno>
+            <idno type="STC">ESTC R33520</idno>
+            <idno type="OCLC">13470571</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1555:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the battle of Landen</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Landen, Battle of, 1693.</term>
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697.</term>
+               <term type="geographic_name">Europe --  History --  1648-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:99688:1"/>
+            <head>A RELATION OF THE Battle of Landen.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by Authority.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>ON the 18th of the last Month <hi>New Style,</hi> the King being at His Camp at <hi>Park,</hi> understood that the Enemy was marching towards the <hi>Meuse,</hi> whereupon His Majesty march'd the 21st to <hi>Tirlemont,</hi> where receiving the News that the Enemy had attackt <hi>Huy,</hi> we continued our march as far as <hi>Hopertingue,</hi> between St. <hi>Tron</hi> and <hi>Tongres,</hi> with a design to succour the Place. There His Majesty being informed of the Surrender of <hi>Huy,</hi> detach'd the same day 10 Battalions to streng<g ref="char:EOLhyphen"/>then the Garison of <hi>Liege,</hi> and so returned the next day to <hi>Neer Hospen,</hi> where the Army Halted, that it might not be too far from the Enemy before their Design was known, to which end several Parties was sent out towards their Camp, which stretcht its self almost from the River <hi>Jocker</hi> to the <hi>Meuse.</hi> On the 28th the Parties brought Word, that they could not come so near the French Camp as usual, because they had found a great Body of Horse upon the high Grounds near the Mill of <hi>Warrem,</hi> which hindred them from making any discovery beyond the <hi>Jockar:</hi> Some Hours after the King was acquainted that the Enemy appeared from the high Grounds of St. <hi>Gertruyden-Landen,</hi> at half an hours distance from the Camp. His Majesty sending out Parties, soon discovered that it was the Vanguard of their Army that had march'd before Day without Beat of Drum. His Majesty not doubting but they intended to attack our Army, resolved to Fight them, to which end having ordered the Foot to their Arms, and the Troopers to Mount, made that Evening the Dis<g ref="char:EOLhyphen"/>position of his Army, having placed the Right Wing towards the Village of <hi>Elixem,</hi> and the Castle of <hi>Loany,</hi> upon the River <hi>Gheete.</hi> The Left of the Right Wing extended it self to the Village of <hi>Neerwinden,</hi> being covered by a little Rivulet, some Hedges, and hollow ways. The Brigade of <hi>Ramse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> consisting of 5 Battalions, was placed be<g ref="char:EOLhyphen"/>fore the Right Wing near <hi>Lare;</hi> the Brandenburg Foot over against <hi>Lare,</hi> and that of <hi>Hanouer</hi> over against <hi>Winden.</hi> His Majesty finding the Ground very much open from <hi>Winden</hi> to <hi>Neerlanden,</hi> caused a Retrenchment to be made in the Night between those places, behind which His Majesty placed the rest of the Foot, and some Battalions in the Vil<g ref="char:EOLhyphen"/>lage of <hi>Neer-Landen.</hi> The Left Wing began to<g ref="char:EOLhyphen"/>wards the Village of <hi>Dormal,</hi> covered by the Ri<g ref="char:EOLhyphen"/>vulet of <hi>Landen</hi> as far as <hi>Neer-Landen,</hi> where it made an Elbow that returned behind the Foot which was upon the Retrenchments the better to second it.</p>
+            <p>Our Army remained all night in this disposi<g ref="char:EOLhyphen"/>tion. At break of day we saw the Enemy drawn up in two Lines upon the high Grounds of St. <hi>Ger<g ref="char:EOLhyphen"/>truyden-Landen,</hi> and another Body that advanced towards our Retrenchment on the side of <hi>Winden.</hi> At Sun-rising the Enemy was advanced so near to us, that we played our Cannon upon them; for about two hours they made no motion; about 6 a Clock those that remained on the high Grounds came down in several Lines, and when they were within reach of our Cannon, they left the middle of the Plain, and caused their Infantry to file off to our Right towards the Village of <hi>Winden</hi> and <hi>Lare,</hi> and on our Left towards the Village of <hi>Neer-Landen,</hi> being sustained by their Horse, which marched on both sides of the Plain, and caused a Body to pass on the other side of the Rivulet of <hi>Landen,</hi> to make us believe they intended to fall upon our Left Wing, while they should make their greatest Effort upon our Left, which they attack'd about 7 hours after. The Fight lasted on that side for some hours with doubtful success; The Enemy advanced, and were repulsed several times, and even some Squadrons got over the little Rivulet below the Village of <hi>Lare,</hi> and came into our Camp, most of which were either killed
+<pb facs="tcp:99688:2"/>or taken. In the mean while the Elector of <hi>Ba<g ref="char:EOLhyphen"/>varia,</hi> behaving himself with the greatest Vigor, and giving Orders to all the Right Wing, made them Charge so advantageously, that he made the Enemy give way, and drove them back into the Plain; The Brigade of <hi>Ramsey</hi> that had been forced to give ground, regained their Post. The Electoral Prince of <hi>Hanouer</hi> brought up his In<g ref="char:EOLhyphen"/>fantry again into their Post, as did the Prince of <hi>Brandenburg</hi> his own Foot; The French never<g ref="char:EOLhyphen"/>theless remained in some part of the Village at <hi>Windin,</hi> but finding that they could not force our Right Wing, attack'd the Village of <hi>Neer-Landen</hi> on our Left, where having been beaten back after a very great Fight, they renewed their Attack with fresh Troops, which obliged the King to come from the Right to give the necessary Orders at the Left, where the Fight was renewed again very warmly with Small Shot, which continued about an hour, when we became Masters of the Village, having driven the Enemy quite out of it, which made them withdraw all their Troops from the Attack where they had succeeded so ill, carrying them to their Left and our-Right, where had been always some small Firing, and though the Enemy had been beaten at the Left, they had nevertheless kept a part of the Village of <hi>Winden,</hi> and made themselves Masters of the Hedges of the rising Ground, which laid the Flank of our Retrenchment open to them. The King who was in every place where His Presence could be any ways useful, after having secured every thing on the Left, returned immediately to the Village of <hi>Winden,</hi> and brought up twice to our Retrenchments the English and Scots Foot, where they behaved themselves as they had done every where else, with great Resolution and Courage. The Elector of <hi>Bavaria</hi> did dispose two Battalions so as to take the Enemy in the Left Flank, whilst 3 others at<g ref="char:EOLhyphen"/>tack'd them in the Front, but before this could be put in execution, the Enemy having been strengthened with such of their Forces as they had drawn from the Right, became Masters of the passage into the Village, and made an Over<g ref="char:EOLhyphen"/>ture through which their Horse began to pass with the help of their Foot that lay in the Hedges. Their Horse that past first was beaten back, but our Foot at the Retrenchment not being able to suffer their Fire any longer in Flank, was obliged to retire, and our Cannon on that side abating its Fire, the Enemies Horse crouded through the passage, and began to extend themselves towards their Left all along the Hedges, which were pos<g ref="char:EOLhyphen"/>sessed by their Foot. Most part of this Cavalry consisted of the French Kings Houshold. As soon as they had formed some Squadrons, they attackt the Troops of <hi>Hanouer</hi> and <hi>Brandenburg,</hi> which were on the Left of the Right Wing, and took the advantage of the motion of part of those Troops which they forced to retire, and at the same time went to their Left, and did the like to the Spanish Troops which were on the Right of the <hi>Hanouer</hi> Horse.</p>
+            <p>His Majesty to remedy this disorder, caused part of the Left Wing to advance, but being far off, the Enemy did not give them time to form themselves, but having attackt the Dutch Horse on the Left partly in Flank, forced them to retire before the English had got into a Line, who were obliged to attack the Enemy as they found them<g ref="char:EOLhyphen"/>selves, which some did with success, having beat<g ref="char:EOLhyphen"/>en what came before them; but the Right Wing having been forced to pass the River, the English Troops were quite encompassed. The King find<g ref="char:EOLhyphen"/>ing the Enemy over-powered us, sent Orders to the Generals of the foot, and to those of the Left Wing, to retire to Leuwe, a Fort near the Camp. The Kings Dragoons and Grenadiers that lined the Rivulet of Landen, made their Retreat by the River through the Village of Dormal, and the foot and part of the Cavalry of the Left Wing by Orsmael. The Enemy, whose Horse was drawn up in two Lines upon the rising ground, adven<g ref="char:EOLhyphen"/>turing to attack them in their Retreat. The King having given all necessary Orders every where for the Retreat, and finding himself encompassed on all sides, thought fit to go over the River, and with great difficulty pass'd the Bridge that had been made at the Village of <hi>Neerhespen,</hi> where His Majesty met some of his Guards and Light Horse of the Right Wing, and the remainder of the Brigade of <hi>Ramsey;</hi> and near <hi>Tirlemont</hi> came up with those Troops of the Right Wing that had been Rallied by the Elector of <hi>Bavaria.</hi> His Ma<g ref="char:EOLhyphen"/>jesty marched with this Body, encamped that Night near <hi>Boutersem,</hi> and the next day at <hi>Betle<g ref="char:EOLhyphen"/>hem</hi> near <hi>Louvain,</hi> while the rest of the Army that had made their Retreat towards <hi>Leeuwe</hi> en<g ref="char:EOLhyphen"/>camped near <hi>Diest.</hi> Our Forces being not yet all of them come together, we cannot give a certain account what loss we have had, but so much we know that it is much less than we thought it at first, and there is no doubt but the Enemy has suffered a great deal more, and chiefly in their Infantry. The Count <hi>de Solmes</hi> had his Leg shot off by a Cannon Bullet at the beginning of the Fight. My Lord <hi>Portland</hi> is wounded; The Duke of <hi>Ormond,</hi> Monsieur <hi>Scravenmore,</hi> and Monsieur <hi>Zuylestein</hi> are taken, the two first being likewise wounded. We do not know yet what other Pri<g ref="char:EOLhyphen"/>soners there are. We have taken the Duke of <hi>Berwick,</hi> and several other Officers, many of them of Note, of whom we have yet no exact List. We have lost some Standarts, and taken as many. By the next we shall be able to send you more Parti<g ref="char:EOLhyphen"/>culars.</p>
+            <div type="list_of_officers">
+               <head>A LIST of the Officers of the French Army, Commanded by the Duke of <hi>Luxemburg,</hi> that were killed and wounded on the 29th of <hi>July.</hi>
+               </head>
+               <p>MOnsieur <hi>de Mon Chevrteul,</hi> the Prince <hi>Paul</hi> of <hi>Lorrain,</hi> and his Son, the Count <hi>de Gournaii, Montfort</hi> Bri<g ref="char:EOLhyphen"/>gadier, <hi>Imcourt</hi> Brigadier of Horse, the Count <hi>de Gassion,</hi> the Duke <hi>Duzes,</hi> the Marquis <hi>de Robet,</hi> the Marquis <hi>de Mornere, Huijne</hi> Cap. of the Guards, <hi>Chauvelon</hi> Ensign of the Light Horse, <hi>Brison</hi> Cap. in the Kings Regiment, <hi>Rose</hi> Son to the Lieut. Gen. the Duke <hi>de St. Simon</hi> killed or taken, the Count <hi>de St. Simon</hi> Brigadier, <hi>Serville</hi> of the Kings Regiment, <hi>Dupres</hi> Lieut. Col. of <hi>Orleans</hi> and his Son, the Count <hi>de Guiche</hi> Colonel, Lieutenant General <hi>Sarsfield,</hi> and 4 Brigadiers of Foot, were killed.</p>
+               <p>The Prince <hi>de Conti,</hi> Lieut. Gen. the Duke <hi>de Montmo<g ref="char:EOLhyphen"/>rency</hi> Mareschal de Camp, Monsieur <hi>de Ximenes,</hi> the Ma<g ref="char:EOLhyphen"/>reschal <hi>de Joyeuse, Lignerii</hi> mortally wounded, the Duke <hi>de la Roche Sur-Yon</hi> mortally wounded, and the Duke <hi>d'Ber<g ref="char:EOLhyphen"/>nonville,</hi> were wounded.</p>
+               <p>The Duke of <hi>Berwick</hi> taken Prisoner.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edward Jones</hi> in the <hi>Savoy.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
